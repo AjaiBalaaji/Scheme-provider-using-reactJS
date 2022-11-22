@@ -1,0 +1,211 @@
+*{
+  border: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0%;
+}
+
+.merit-cumbot {
+  color: #000;
+  
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(#a3e1ef 0%, #fafafa 100%);
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-bottom: 9px;
+  padding-left: 30px;
+  padding-right: 34px;
+  font-family: Poppins;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 57px;
+  display: flex;
+}
+
+.image-9 {
+  background: url("https://cdn-icons-png.flaticon.com/128/507/507257.png");
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  align-self: flex-start;
+  align-items: flex-end;
+}
+
+.scheme-of-merit-cum {
+  text-align: center;
+  font-size: 3rem;
+  line-height: 72px;
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+
+.rectangle-33 {
+  width: 95%;
+  background-color: #235df12b;
+  border-radius: 32px;
+  flex-direction: row;
+  flex-basis: 14%;
+  justify-content: flex-start;
+  align-items: center;
+  padding-bottom: 3px;
+  padding-left: 24px;
+  font-weight: 400;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.the-objective-of-the {
+  margin-bottom: 2px;
+  font-size: 20px;
+}
+
+.flex-container {
+  width: 95%;
+  flex-direction: column;
+  flex-basis: 67%;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 23px;
+  margin-right: 11px;
+  display: flex;
+  font-size: 20px;
+  height: 1000px;
+}
+
+.rectangle-34 {
+  color: #fcf3f3ad;
+  width: 100%;
+  z-index: 1;
+  background-color: #235df12b;
+  border-radius: 32px;
+  flex-direction: column;
+  flex-basis: 47%;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-bottom: -500px;
+  padding-top: 27px;
+  padding-bottom: 48px;
+  font-size: 1.25rem;
+  line-height: 20px;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.rectangle-44 {
+  width: 30%;
+  background-color: #dbdbdbc9;
+  border-radius: 19px;
+  flex-direction: column;
+  flex-basis: 29%;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 53px;
+  margin-bottom: -75px;
+  padding-bottom: 2px;
+  padding-left: 19px;
+  padding-right: 21px;
+  display: flex;
+}
+
+.rectangle-67 {
+  color: #000;
+  width: 65%;
+  background-color: #9bc6e670;
+  border-radius: 16px;
+  flex-direction: row;
+  flex-basis: 37%;
+  justify-content: center;
+  align-self: flex-start;
+  align-items: center;
+  margin-bottom: 1px;
+  padding-top: 1px;
+  padding-left: 2px;
+  font-weight: 400;
+  display: flex;
+  height: 500px;
+}
+
+.hi-there-how-can-i-h {
+  margin-top: 1px;
+  margin-left: 1px;
+}
+
+.rectangle-67-1 {
+  width: 75%;
+  background-color: #9c9fa2;
+  border-radius: 16px;
+  flex-direction: row;
+  flex-basis: 25%;
+  justify-content: space-around;
+  align-self: flex-end;
+  align-items: center;
+  margin-bottom: 1px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  display: flex;
+}
+
+.type-your-text-here {
+  margin-top: 1px;
+}
+
+.image-67 {
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-left: 7px;
+}
+
+.image-52 {
+  width: 111px;
+  height: 111px;
+  object-fit: cover;
+  z-index: 1;
+  background-position: center;
+  background-size: cover;
+  margin-right: -42px;
+}
+
+.eligibility-to-be-e {
+  
+}
+
+.rectangle-35 {
+  width: 1321px;
+  height: 659px;
+  object-fit: cover;
+  z-index: 1;
+  border-radius: 32px;
+}
+
+.rectangle-28 {
+  color: #fff;
+  width: 20%;
+  background-color: #dd1f1f9c;
+  border: none;
+  border-radius: 24px;
+  flex-direction: row;
+  flex-basis: 4%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+  margin-bottom: 4px;
+  margin-left: 18px;
+  padding-top: 3px;
+  padding-left: 1px;
+  font-family: Poppins;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 60px;
+  display: flex;
+}
+
+.apply {
+  margin-top: 1px;
+}
